@@ -27,3 +27,14 @@
 **DataBase:** MongoDB Atlas, Mongoose
 
 
+
+creenshots
+signin
+
+Genre
+
+search
+
+liked
+
+
